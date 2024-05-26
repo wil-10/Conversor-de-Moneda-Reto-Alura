@@ -18,26 +18,23 @@ Aplicación de consola (IntelliJ IDEA)
 
 #### Ejemplo
 
-Instrucciones paso a paso sobre cómo instalar tu proyecto. Esto podría incluir comandos de terminal para clonar el repositorio, instalar dependencias, etc.
-
-
 ```bash
- **********************************************
- 1- Dólar Americano a Peso Mexicano         *
- 2- Peso Mexicano a Dólar Americano         *
+ ******************************************
+ 1- Dólar Americano a Peso Mexicano       *
+ 2- Peso Mexicano a Dólar Americano       *
  3- Dólar Americano a Colón Costarricense *
  4- Colón Costarricense a Dólar Americano *
- 5- Dólar Americano a Dólar Canadiense     *
- 6- Dólar Canadiense a Dólar Americano     *
- 7- Salir                                                          *
- **********************************************
+ 5- Dólar Americano a Dólar Canadiense    *
+ 6- Dólar Canadiense a Dólar Americano    *
+ 7- Salir                                 *
+ ******************************************
 |- SELECCIONE UNA OPCIÓN VÁLIDA -|
 
 (Usuario selecciona la opción 1)
 
 ¿Qué cantidad desea convertir?
 
-(Usuario inghresa 250)
+(Usuario ingresa 250)
 
 El valor: 250.00[USD] Actualmente es: 4175.18[MXN] <---------RESULTADO
 
